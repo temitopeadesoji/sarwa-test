@@ -1,0 +1,27 @@
+[
+    {
+        "first_name": "test",
+        "last_name": "user-1",
+        "email": "testuser1@sarwa.co"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user-2",
+        "email": "testuser2@sarwa.co"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user-3",
+        "email": "testuser3@sarwa.co"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user-4",
+        "email": "testuser4@sarwa.co"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user-5",
+        "email": "testuser5@sarwa.co"
+    }
+]

@@ -22,7 +22,7 @@ You can install PostgresDB locally [Official doc](https://www.postgresql.org/).
   - Run `npm install`
   - Run `npm run dev` to start the next dev server (which will apply any new changes to the react code)
 
-If you run into any issues with installation, check `src/react-app/readme.md` which provides more details about the react app installation.
+If you run into any issues with installation, check `frontend/readme.md` which provides more details about the react app installation.
 
 #### Backend - Node JS
 

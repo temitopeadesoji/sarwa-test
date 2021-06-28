@@ -3,15 +3,6 @@
 ## System Dependencies
 
 - Install NPM
-- Install Amplify CLI
-- Install Gatsby CLI
-
-## Scripts
-
-```bash
-npm run develop:web # run gatsby development
-npm run build:web   # publish build in public dir
-```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
